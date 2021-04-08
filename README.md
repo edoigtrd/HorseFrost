@@ -17,6 +17,7 @@ This plugin is nearest as vanilla frost walker :
 
 # Known issues :
 -Sometimes entityes are freezed in water
+
 -Horses armor cannot be enchanted throught enchanting table but only with anvil (please contact me if you have solution to do that)
 
 Download are availible in releases or in spigot project page :
